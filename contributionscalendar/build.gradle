@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace 'dev.kyokomi.contributionscalendar'
+    namespace 'com.github.kyokomi'
     compileSdk 33
 
     defaultConfig {
@@ -68,8 +68,8 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 groupId = "com.github.kyokomi"
-                artifactId = "ContributionsCalendarExample"
-                version = "0.0.3"
+                artifactId = "ContributionCalendarExample"
+                version = "0.0.4"
 
                 afterEvaluate {
                     from(components["release"])

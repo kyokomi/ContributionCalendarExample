@@ -48,7 +48,7 @@ android {
 
 dependencies {
     //implementation implementation(project(':contributionscalendar'))
-    implementation 'com.github.kyokomi:ContributionsCalendarExample:0.0.1'
+    implementation 'com.github.kyokomi:ContributionCalendarExample:0.0.4'
     implementation 'com.github.jitpack:android-example:1.0.1'
 
     implementation 'androidx.core:core-ktx:1.8.0'
