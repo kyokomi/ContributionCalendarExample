@@ -69,7 +69,7 @@ afterEvaluate {
             release(MavenPublication) {
                 groupId = "com.github.kyokomi"
                 artifactId = "ContributionCalendarExample"
-                version = "0.0.5"
+                version = "0.0.6"
 
                 afterEvaluate {
                     from(components["release"])
