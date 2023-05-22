@@ -13,6 +13,6 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
     }
 }
-rootProject.name = "ContributionsCalendar"
+rootProject.name = "ContributionCalendar"
 include ':app'
-include ':contributionscalendar'
+include ':contributioncalendar'

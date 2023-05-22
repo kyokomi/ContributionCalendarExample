@@ -1,4 +1,4 @@
-package dev.kyokomi.contributionscalendar
+package dev.kyokomi.contributioncalendar
 
 import android.content.res.Configuration
 import androidx.compose.foundation.background

@@ -1,4 +1,4 @@
-package dev.kyokomi.contributionscalendar
+package dev.kyokomi.contributioncalendar
 
 import org.junit.Test
 

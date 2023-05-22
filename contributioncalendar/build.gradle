@@ -4,6 +4,9 @@ plugins {
     id 'maven-publish'
 }
 
+group = 'com.github.kyokomi'
+version = '0.0.4'
+
 android {
     namespace 'com.github.kyokomi'
     compileSdk 33
