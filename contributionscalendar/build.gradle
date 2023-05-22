@@ -67,7 +67,7 @@ afterEvaluate {
     publishing {
         publications {
             release(MavenPublication) {
-                groupId = "dev.kyokomi"
+                groupId = "dev.kyokomi.contributionscalendar"
                 artifactId = "contributionscalendar"
                 version = "0.0.1"
 
